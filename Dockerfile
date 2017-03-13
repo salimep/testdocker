@@ -1,5 +1,5 @@
 ## from centos 7 as base
-### creating Container for NFS server for SIta images
+### creating Container for NFS server
 FROM local/c7-systemd
 MAINTAINER  SALIM Sys Admin
 # installing NFS package
